@@ -33,7 +33,7 @@ This web application is an Image Gallery with an integrated Authentication Syste
 Follow these steps to set up and run the project locally:
 
 **Clone the Repository:**
-git clone https://github.com/chi-beekay/image-galley-dnd.git
+(https://github.com/waconzy/hngx-dnd.git)
 
 **Install Dependencies:**
 cd image-galley-dnd
